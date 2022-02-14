@@ -6,6 +6,8 @@ This is a repository of the different data science projects I have worked on or 
 
 ## Deep Learning
 
+![](https://github.com/jorgerodriguezm/CottonDiseaseDetection/blob/main/Assets/banner.png)
+
 - [Cotton Disease Detection](https://github.com/jorgerodriguezm/CottonDiseaseDetection)
 
 ## Regression
