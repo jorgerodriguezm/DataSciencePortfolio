@@ -24,11 +24,11 @@ This is a repository of the different data science projects I have worked on or 
 
 ## Chatbot
 
-- [Algar Tech Support Bot](https://github.com/jorgerodriguezm/TechSupportChatBot)
+- [Algar Tech Support Bot - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/TechSupportChatBot)
 
 ## Data Mining
 
-- [Financial Product Recommendation with Association Rules](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules)
+- [Financial Product Recommendation with Association Rules - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/FinancialProductRecommendationsAssociationRules)
 
 ## Marketing Analysis
 
@@ -37,5 +37,3 @@ This is a repository of the different data science projects I have worked on or 
 ## Cluster Analysis
 
 - [Wine K-means Clustering](https://github.com/jorgerodriguezm/WineK-MeansClustering)
-
-##
