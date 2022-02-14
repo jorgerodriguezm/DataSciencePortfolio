@@ -10,7 +10,7 @@ This is a repository of the different data science projects I have worked on or 
 
 - [Heart Rate Prediction - IBM Maratona Behind the Code 2021](https://github.com/jorgerodriguezm/HeartRatePredictionQuanam)
 
--[Building a Top Striker in FIFA 19](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19)
+- [Building a Top Striker in FIFA 19](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19)
 
 ## Classification
 
