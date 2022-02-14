@@ -1,3 +1,5 @@
+![](https://github.com/jorgerodriguezm/DataSciencePortfolio/blob/main/Assets/banner.png)
+
 # Data Science Portfolio
 
 This is a repository of the different data science projects I have worked on or currently working on.
